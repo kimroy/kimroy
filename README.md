@@ -3,7 +3,9 @@
 I'm Roy, a software engineer from Toronto, Canada.
 
 I'm primarily interested in **back-end development** and currently work as a
-software developer at [**@Morgan Stanley**](https://github.com/morganstanley). 📌 Previously, I was at [**@Canada Revenue Agency**].
+software developer at [**@Morgan Stanley**](https://github.com/morganstanley). 
+
+📌 Previously, I was at [**@Canada Revenue Agency**](https://www.canada.ca/en/revenue-agency.html).
 
 
 #### Let's connect!
