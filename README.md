@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Roy, a software engineer from Toronto, Canada.
+I'm Roy, a software developer currently working in Montreal, QC.
 
 I'm primarily interested in **back-end development** and currently work as a
 software developer at [**@Morgan Stanley**](https://github.com/morganstanley). 
